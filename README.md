@@ -4,11 +4,12 @@
 
 >Trilha explorer
 
-Projeto construido no evento Next Level Week da Rocketseat
+Projeto construido no evento Next Level Week da Rocketseat.
+>Meu primeiro desafio no mundo da programação.
 
 [Clique aqui para acessar](https://gracih.github.io/nlw/)
 
-## Tecnologias
+## 👩‍💻 Tecnologias
 
 -HTML
 
@@ -16,5 +17,5 @@ Projeto construido no evento Next Level Week da Rocketseat
 
 -Git e Github
 
-### Contato 
+### ✉ Contato 
 gracielle@outlook.com
